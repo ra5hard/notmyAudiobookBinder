@@ -1,0 +1,25 @@
+.DS_Store
+App Screenshots/
+dist/
+build/
+myAudiobookBinder-mac.zip
+myAudiobookBinderIcon.png
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+pip-wheel-metadata/
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+myAppThings/bin/
