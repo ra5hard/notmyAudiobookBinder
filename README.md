@@ -1,4 +1,4 @@
-![appscreen1](https://github.com/user-attachments/assets/39a1f2fa-7986-4b1c-a86c-60069a93e3f4)
+![appscreen1](App%20Screenshots/appscreen1.jpg)
 
 
 # myAudiobookBinder
@@ -144,10 +144,10 @@ A venv is optional. You can run this without one, but I recommend using it so th
 Thank you so much for using my app! This is my first app; I'm so glad you're here.
 
 ## Additional app screenshots: 
-![screen2](https://github.com/user-attachments/assets/7af170b6-6e69-4b16-ba22-16444f7659af)
+![screen2](App%20Screenshots/screen2.jpg)
 
-![screen4](https://github.com/user-attachments/assets/b2c6a470-73e8-4f5d-b71e-6fac9553052c)
+![screen4](App%20Screenshots/screen4.jpg)
 
-![screen3](https://github.com/user-attachments/assets/2db0f4fb-1b1d-47bd-a8fc-daf7f25e4d13)
+![screen3](App%20Screenshots/screen3.jpg)
 
-![apploadingscreen](https://github.com/user-attachments/assets/55a6b126-3e27-4378-bf96-8322fb6dcb95)
+![apploadingscreen](App%20Screenshots/apploadingscreen.jpg)
