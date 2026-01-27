@@ -19,6 +19,8 @@ This is an early-stage open-source utility. The core functionality is complete a
 ### Why it’s open source
 I’m releasing this tool as open source to support transparency and open technical review, so anyone can inspect the code and see exactly how the app works and what it does and does not do. This repository includes two versions of each code file: one with clear, beginner-friendly comments that explain what each part does, and one without comments. Both versions contain identical code.
 
+This project is licensed under the GNU General Public License v3 (GPLv3). This means anyone can inspect, use, and modify the code, but any redistributed versions or derivative works must also remain open source and licensed under GPLv3.
+
 ### Features
 • Import multiple .mp3 files at once
 
