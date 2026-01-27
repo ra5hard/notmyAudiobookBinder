@@ -69,7 +69,7 @@ I’m releasing this tool as open source to support transparency and open techni
 - App looks to see if you already have ffmpeg installed. To check, or to download ffmpeg, see below how to install requirements. 
 - Dependencies: see `requirements.txt`.
 
-### How to install requirements:
+### How to install requirements and start the app:
 #### On macOS
 - `python3 -m venv .venv`
 - `source .venv/bin/activate`
@@ -104,11 +104,19 @@ A venv is optional. You can run this without one, but I recommend using it so th
 
 </details>
 
+## How to run:
+
+**Instructions:**
+
+- __After installing requirements (see above), run:__  
+  - macOS/Linux: `python3 myAppThings/Scripts/app.py`  
+  - Windows: `python myAppThings\\Scripts\\app.py` (or `py -3 myAppThings\\Scripts\\app.py`)
+
 ## How to use:
 
 **Instructions:**
 
-- __How to start:__ Start by either inputting the information about the audiobook, or by importing the audio files, whichever you want to do first.
+- __How to start making audiobook files:__ Start by either inputting the information about the audiobook, or by importing the audio files, whichever you want to do first.
   
 - __How to input audio files:__ Click the Import Audio Files button, then the large white area where it says click here to add files, and a window will pop up allowing you to select your files. Select all of your files at the same time by either shift clicking or click and dragging a selection.
   
