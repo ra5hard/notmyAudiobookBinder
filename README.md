@@ -1,6 +1,33 @@
 ![appscreen1](App%20Screenshots/appscreen1.jpg)
 
+Name:    gdscc.nasa.gov
+@blackgirlscode @nasa-jpl @howard-university-web-services @whitehouse we have comms issues in long beach @USNAVY 
 
+C:\Users\PAC>nslookup  -type=ns gdscc.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+gdscc.nasa.gov  nameserver = a1-32.akam.net
+gdscc.nasa.gov  nameserver = a14-67.akam.net
+gdscc.nasa.gov  nameserver = a8-66.akam.net
+gdscc.nasa.gov  nameserver = a5-66.akam.net
+gdscc.nasa.gov  nameserver = a9-64.akam.net
+gdscc.nasa.gov  nameserver = a12-64.akam.net
+
+a1-32.akam.net  internet address = 193.108.91.32
+a1-32.akam.net  AAAA IPv6 address = 2600:1401:2::20
+a14-67.akam.net internet address = 184.26.161.67
+a14-67.akam.net AAAA IPv6 address = 2600:1480:1800::43
+a8-66.akam.net  internet address = 2.16.40.66
+a8-66.akam.net  AAAA IPv6 address = 2600:1403:a::42
+a5-66.akam.net  internet address = 95.100.168.66
+a5-66.akam.net  AAAA IPv6 address = 2600:1480:b000::42
+a9-64.akam.net  internet address = 184.85.248.64
+a9-64.akam.net  AAAA IPv6 address = 2a02:26f0:117::40
+a12-64.akam.net internet address = 184.26.160.64
+a12-64.akam.net AAAA IPv6 address = 2600:1480:f000::40
+ 
 # myAudiobookBinder
 
 ### Description
